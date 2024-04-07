@@ -8,7 +8,7 @@ Please see `specification.pdf` for specification.
 
 ### Prerequisites
 
-Project was developed in Python 3. Requirements can be viewed in requirements.txt.
+Project was developed in Python 3. Requirements can be viewed in `requirements.txt`.
 
 `aco.py` and `elitist-aco.py` require `ant.py` and `load_data.py` to run.
 
